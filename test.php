@@ -1,3 +1,3 @@
 <?php
-echo"test for git deployment";
+echo"test for git deployment in new branch";
 ?>
